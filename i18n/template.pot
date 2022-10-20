@@ -1,8 +1,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: TShock\n"
-"POT-Creation-Date: 2022-10-20 00:16:51-0400\n"
-"PO-Revision-Date: 2022-10-20 00:16:51-0400\n"
+"POT-Creation-Date: 2022-10-20 06:43:20+0000\n"
+"PO-Revision-Date: 2022-10-20 06:43:21+0000\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "MIME-Version: 1.0\n"
@@ -24,6 +24,10 @@ msgstr ""
 #: ../../TShockAPI/Commands.cs:680
 #, csharp-format
 msgid "Invalid command entered. Type {0}help for a list of valid commands."
+msgstr ""
+
+#: ../../TShockAPI/Commands.cs:609
+msgid "Shows a command's aliases."
 msgstr ""
 
 #: ../../TShockAPI/Commands.cs:691
