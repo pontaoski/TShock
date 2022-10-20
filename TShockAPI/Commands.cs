@@ -606,7 +606,7 @@ namespace TShockAPI
 
 			add(new Command(Aliases, "aliases")
 			{
-				HelpText = "Shows a command's aliases."
+				HelpText = I18n.C.GetString("Shows a command's aliases.")
 			});
 			add(new Command(Help, "help")
 			{
